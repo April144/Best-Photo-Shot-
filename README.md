@@ -152,14 +152,11 @@ Please ensure your code follows the existing style and includes comments where n
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details (not included here, but you can add a standard MIT license if desired).
-
+This project is licensed under the MIT License. 
 ---
 
 ## Author
-- **Name**: Malgorzata Pick
-- **Role**: Front-End Developer
-- **Contact**: (Add your email or portfolio link if desired)
+- Thin Zar Nwe
 
 ---
 
@@ -168,5 +165,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Checkout Functionality**: Implement a real checkout flow with payment gateways.
 - **Image Optimization**: Compress images for faster loading.
 - **Testing**: Add unit tests for JavaScript functions using a framework like Jest.
-
-This README provides a solid foundation for your project. You can customize it further (e.g., add a live demo link, screenshots, or specific contribution guidelines) based on your needs. Let me know if you’d like to tweak anything!
